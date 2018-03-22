@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dfdcf9f1-948f-4ee5-a525-4c55cb19de0f" name="test" url="http://test-jdbc-yael.alwaysdata.net">
+        <fileTransfer host="ssh-test-jdbc-yael.alwaysdata.net" port="22" rootFolder="/home/test-jdbc-yael/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
